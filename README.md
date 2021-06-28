@@ -1,0 +1,2 @@
+# nextjs
+magnolia nextjs template
